@@ -13,6 +13,20 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 
 
 Ярослав ТЕРЕЩЕНКО [tg](https://t.me/yaroslav_els) 
+<br>
+Юлія ЛЕГЕНЬКА [tg](https://t.me/j_u_l_i_k_s)
+<br>
+Любов КВАСОВА [tg](https://t.me/Liubochka_bubochka)
+<br>
+Анастасія КУЗЬМІНА [tg](https://t.me/avaztazia)
+<br>
+Любов ЗАМУЛА [tg](https://t.me/liubazamula)
+<br>
+Анастасія ФАРТУШНЯК [tg](https://t.me/nastiiia_26)
+<br>
+Марина ВАСИЛЬЄВА [tg](https://t.me/Sprigtrap)
+<br>
+Анастасія САНІНА [tg](https://t.me/foggy_fog)
 
 
 **Керівник**
