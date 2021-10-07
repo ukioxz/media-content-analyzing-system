@@ -12,21 +12,21 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 *студенти 2-го курсу, групи ІП-04*<span padding-right:5em></span> **
 
 
-Ярослав ТЕРЕЩЕНКО [tg](https://t.me/yaroslav_els) 
+Ярослав ТЕРЕЩЕНКО [telegram](https://t.me/yaroslav_els)
 <br>
-Юлія ЛЕГЕНЬКА [tg](https://t.me/j_u_l_i_k_s)
+Юлія ЛЕГЕНЬКА [telegram](https://t.me/j_u_l_i_k_s)
 <br>
-Любов КВАСОВА [tg](https://t.me/Liubochka_bubochka)
+Любов КВАСОВА [telegram](https://t.me/Liubochka_bubochka)
 <br>
-Анастасія КУЗЬМІНА [tg](https://t.me/avaztazia)
+Анастасія КУЗЬМІНА [telegram](https://t.me/avaztazia)
 <br>
-Любов ЗАМУЛА [tg](https://t.me/liubazamula)
+Любов ЗАМУЛА [telegram](https://t.me/liubazamula)
 <br>
-Анастасія ФАРТУШНЯК [tg](https://t.me/nastiiia_26)
+Анастасія ФАРТУШНЯК [telegram](https://t.me/nastiiia_26)
 <br>
-Марина ВАСИЛЬЄВА [tg](https://t.me/Sprigtrap)
+Марина ВАСИЛЬЄВА [telegram](https://t.me/Sprigtrap)
 <br>
-Анастасія САНІНА [tg](https://t.me/foggy_fog)
+Анастасія САНІНА [telegram](https://t.me/foggy_fog)
 
 
 **Керівник**
