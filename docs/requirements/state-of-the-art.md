@@ -130,10 +130,15 @@
 ## Недоліки
 
 Brand Alalytics: є обмеження по кількості тем повідомлень (навіть в найдорожчому тарифі)
+
 Brand24: проблеми з пошуком російською чи українською мовами, оскільки це англомовний сервіс
+
 ПрессИндекс: немає пошуку по картинках
+
 Babkee: маленька кількість вналізуємої інформації. обмеження по кількості тем та повідомлень (2 теми та до 3000 повідомлень в місяць)
+
 Медиалогия: відсутність архівів, що зберігаються більше 1 року
+
 Youscan: затримка повідомлень може бути від однієї години до доби
 
 
@@ -144,8 +149,13 @@ Youscan: затримка повідомлень може бути від одн
 ## Посилання
 
 https://www.publichealth.columbia.edu/research/population-health-methods/content-analysis
+
 https://www.historylearningsite.co.uk/sociology/research-methods-in-sociology/media-content-analysis/
+
 https://www.affde.com/ru/meltwater-alternatives.html
+
 https://work-info.org/otzyvy-o-kompaniyakh/60103-medialogiya
+
 https://br-analytics.ru/blog/media-monitoring/
+
 https://gde-saas.ru/applications/youscan-smm/tariffs/
