@@ -18,6 +18,7 @@
 •	Текст майнінг (найпоширеніший метод дослідження)
 •	Контент аналіз
 •	Аналіз природної мови
+
 До якісних методів належать:
 •	Дискурс-аналіз
 •	Традиційні методи аналізу
@@ -69,3 +70,5 @@
 ## Посилання
 
 *[Розділ містить повний список всіх документів, про які згадується.]*
+https://www.publichealth.columbia.edu/research/population-health-methods/content-analysis
+https://www.historylearningsite.co.uk/sociology/research-methods-in-sociology/media-content-analysis/
