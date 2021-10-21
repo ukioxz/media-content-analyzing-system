@@ -32,7 +32,7 @@
 
 ## Характеристика ділових процесів
  
-***ID:*** UC_MediaContentAnalysis
+***ID:*** UC_MediaContentAnalysis Version: 0.1
     
 ***НАЗВА:*** Отримання та аналіз медіа-контенту з різних джерел
 
