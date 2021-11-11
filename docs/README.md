@@ -3,14 +3,13 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © [2021] [Yaroslav Tereshchenko]"
+footer: "ECL 2.0 Licensed | Copyright © 2021, Yaroslav Tereshchenko"
 ---
 
 
 **Виконали:** 
 
-*студенти 2-го курсу, групи ІП-04*<span padding-right:5em></span> **
-
+*студенти 2-го курсу, групи ІП-04*<span padding-right:5em></span>
 
 Ярослав ТЕРЕЩЕНКО [telegram](https://t.me/yaroslav_els)
 <br>
