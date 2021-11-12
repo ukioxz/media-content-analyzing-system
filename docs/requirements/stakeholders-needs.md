@@ -23,12 +23,13 @@
 ## Короткий зміст
 
 * [Характеристика ділових процесів](https://github.com/YaroslavEls/media-content-analyzing-system/blob/master/docs/requirements/stakeholders-needs.md#%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0-%D0%B4%D1%96%D0%BB%D0%BE%D0%B2%D0%B8%D1%85-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%96%D0%B2)
-* [MCSS1](https://github.com/YaroslavEls/media-content-analyzing-system/blob/master/docs/requirements/stakeholders-needs.md#id-mcss1) (Реєстрація нового користувача)
-* [MCSS2](https://github.com/YaroslavEls/media-content-analyzing-system/blob/master/docs/requirements/stakeholders-needs.md#id-mcss2) (Авторизація зареєстрованого користувача)
-* [MCSS3](https://github.com/YaroslavEls/media-content-analyzing-system/blob/master/docs/requirements/stakeholders-needs.md#id-mcss3) (Користувач здійснює запит до системи аналізу медіа контенту)
-* [MCSS4](https://github.com/YaroslavEls/media-content-analyzing-system/blob/master/docs/requirements/stakeholders-needs.md#id-mcss4) (Система виконує пошук та аналіз контенту за запитом користувача)
-* [MCSS5](https://github.com/YaroslavEls/media-content-analyzing-system/blob/master/docs/requirements/stakeholders-needs.md#id-mcss5) (Експорт результатів роботи системи)
-* [MCSS6](https://github.com/YaroslavEls/media-content-analyzing-system/blob/master/docs/requirements/stakeholders-needs.md#id-mcss6) (Користувач звертається до адміністратора)
+* [MCUS1](https://github.com/YaroslavEls/media-content-analyzing-system/blob/master/docs/requirements/stakeholders-needs.md#id-mcus1) (Реєстрація нового користувача)
+* [MCUS2](https://github.com/YaroslavEls/media-content-analyzing-system/blob/master/docs/requirements/stakeholders-needs.md#id-mcus2) (Авторизація зареєстрованого користувача)
+* [MCUS3](https://github.com/YaroslavEls/media-content-analyzing-system/blob/master/docs/requirements/stakeholders-needs.md#id-mcus3) (Користувач здійснює запит до системи аналізу медіа контенту)
+* [MCUS4](https://github.com/YaroslavEls/media-content-analyzing-system/blob/master/docs/requirements/stakeholders-needs.md#id-mcus4) (Система виконує пошук та аналіз контенту за запитом користувача)
+* [MCUS5](https://github.com/YaroslavEls/media-content-analyzing-system/blob/master/docs/requirements/stakeholders-needs.md#id-mcus5) (Експорт результатів роботи системи)
+* [MCUA1](https://github.com/YaroslavEls/media-content-analyzing-system/blob/master/docs/requirements/stakeholders-needs.md#id-mcua1) (Користувач звертається до адміністратора)
+* [MCUA2](https://github.com/YaroslavEls/media-content-analyzing-system/blob/master/docs/requirements/stakeholders-needs.md#id-mcua2) (Адміністратор обробляє запит користувача)
 * [Короткий огляд продукту](https://github.com/YaroslavEls/media-content-analyzing-system/blob/master/docs/requirements/stakeholders-needs.md#%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B8%D0%B9-%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%83)
 * [Функціональність](https://github.com/YaroslavEls/media-content-analyzing-system/blob/master/docs/requirements/stakeholders-needs.md#%D1%84%D1%83%D0%BD%D0%BA%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%96%D1%81%D1%82%D1%8C)
 
