@@ -1,3 +1,7 @@
+# Проєктування бази даних
+
+## ER-модель
+
 @startuml
 entity Beat {
 id: int
@@ -12,7 +16,7 @@ name: text
 entity Source {
 id: int
 url: text
-api: key
+api_key: int
 }
 
 entity DataStream {
@@ -51,7 +55,6 @@ role: text
 Account "0,*" -- "1,1" Access
 Access "1,1"-- "0,*" Beat
 Access "1,1" -u-  "0,*" DataStream : Administrator
-Access "1,1" -- "0,*" Role
 Access "1,1" -u- "0,*" Report : User
 Beat "1,1" -- "0,*" Source 
 Beat "0,*" -- "1,1" DataStream
