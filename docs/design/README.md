@@ -1,5 +1,41 @@
 # Проєктування бази даних
 
+## Модель бізнес об'єктів
+
+@startuml
+Access "1,1" -- "0,*" Account
+Account *-- Account.login
+Account *-- Account.password
+Account *-- Account.name
+Account *-- Account.role
+Access "1,1" -u- "0,*" DataStream : Administrator
+DataStream "1,1" -- "0,*" Beat
+DataStream <|-- DataStream.name
+DataStream <|-- DataStream.descryption
+DataStream <|-- DataStream.entryPoint
+DataStream <|-- DataStream.beats
+DataStream "1,1" -- "0,*" Report
+DataStream "0,*" -- "1,1" Services
+Services "0,*" -- "1,1" Service
+Service *-- Service.name
+Service *-- Service.description
+Service *-- Service.api
+Service *-- Service.id
+Services "0,*"-- "0,1" Services
+Access "1,1" -u- "0,*" Report : User
+Report *-- Report.name
+Report *-- Report.sources
+Report *-- Report.date
+Report *-- Report.id
+Access "1,1"-- "0,*" Beat
+Beat *-- Beat.id
+Beat *-- Beat.type
+Beat "1,1" -- "0,*" Source 
+Source <|-- Source.id
+Source <|-- Source.url
+Source <|-- Source.api_key
+@enduml
+
 ## ER-модель
 
 @startuml
@@ -28,6 +64,7 @@ entryPoint: int
 entity Report {
 name: text
 description: text
+id: int
 }
 
 entity Services {
