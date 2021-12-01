@@ -6,26 +6,26 @@ skinparam actorStyle awesome
 
 'User
 
-(MCSS1\nРеєстрація) as (MCSS1)
+(MCUS1\nРеєстрація) as (MCUS1)
 
-(MCSS2\nАвторизація) as (MCSS2)
+(MCUS2\nАвторизація) as (MCUS2)
 
-(MCSS3\nПошук данних) as (MCSS3)
+(MCUS3\nПошук данних) as (MCUS3)
 
-(MCSS4\nЕкспорт даних за ідентифікатором) as (MCSS4)
+(MCUS4\nЕкспорт даних за ідентифікатором) as (MCUS4)
 
-(MCSS5\nЗвернення за допомогою до системи) as (MCSS5)
+(MCUS5\nЗвернення за допомогою до системи) as (MCUS5)
 
 
-User --> (MCSS1)
+User --> (MCUS1)
 
-User -up-> (MCSS2)
+User -up-> (MCUS2)
 
-User -left-> (MCSS3)
+User -left-> (MCUS3)
 
-User --> (MCSS4)
+User --> (MCUS4)
 
-User --> (MCSS5)
+User --> (MCUS5)
 
 Admin -up-|> User
 
@@ -39,13 +39,13 @@ Admin --> (MCAS3)
 
 'Admin
 
-(MCUA1\nАдміністратор отримує запит) as (MCUA1)
+(MCUA1\nОбробка запиту користувача) as (MCUA1)
 
-(MCUA2\nАдміністратор додає нове \nджерело інформації) as (MCAS1)
+(MCAS1\nДодання нових \nджерел інформації) as (MCAS1)
 
-(MCUA3\nАдіміністратор будує графіки \nза оновленими даними) as (MCAS2)
+(MCAS2\nЗапит на статистику \nзапитів користувачів) as (MCAS2)
 
-(MCUA4\nАдміністратор оновлює форму \nдля фільтрування інформації)  as (MCAS3)
+(MCAS3\nРедагування форми \nдля користувачів)  as (MCAS3)
 
 @enduml
 
