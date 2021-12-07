@@ -39,14 +39,16 @@ Source <|-- Source.api_key
 ## ER-модель
 
 @startuml
-entity Beat {
-id: int
-type: int
+entity Beat <<instance>> {
+id: UUID
+uri: uri-reference
 }
 
 entity BeatType {
 id: int
 name: text
+description: text
+repo: uri-reference
 }
 
 entity Source {
@@ -67,16 +69,13 @@ description: text
 id: int
 }
 
-entity Services {
-id: int
-next: int
-}
-
 entity Service {
 id: int
 name: text
 description: text
+uri: uri-reference
 }
+
 
 entity Account {
 login: text
@@ -89,15 +88,18 @@ entity Access {
 role: text
 }
 
-Account "0,*" -- "1,1" Access
-Access "1,1"-- "0,*" Beat
-Access "1,1" -u-  "0,*" DataStream : Administrator
-Access "1,1" -u- "0,*" Report : User
-Beat "1,1" -- "0,*" Source 
-Beat "0,*" -- "1,1" DataStream
-DataStream "1,1" -- "0,*" Report
-DataStream "0,*" -- "1,1" Services
-Services "0,*" -- "1,1" Service
-Services "0,*"-- "0,1" Services
-Beat "0,*" -- "1,1" BeatType
+Account  "1,1"<-- "0,*" Access
+Access "0,*" -->  "1,1"Beat
+Access "0,*" -u->   "1,1" DataStream : Administrator
+Access "0,*" -u-> "1,1" Report : User
+Beat "0,*"  --> "1,1"Source 
+Beat "1,1" <--  "0,*" DataStream
+DataStream  "1,1" <--  "0,*" Report
+DataStream "0,*" --> "1,1" Service
+Service "0,1" <-- "0,*" Service: next
+Beat "0,*" --> "1,1" BeatType
 @enduml
+
+## Реляційна схема
+
+![alt text](../.vuepress/public/EER-diagram.png)
